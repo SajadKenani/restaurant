@@ -1,0 +1,291 @@
+{
+  "splash": {
+    "language": "Language",
+    "splash-description": "Welcome to the SplashScreen in English."
+  },
+  "home": {
+    "title": "Home",
+    "description": "This is the home page in English."
+  },
+  "hero": {
+    "welcome": "Welcome to",
+    "title": "The Chef's House",
+    "flavors": "New flavours",
+    "viewMenus": "View Menus",
+    "scroll": "SCROLL"
+  },
+  "about": {
+    "our": "Our",
+    "story": "STORY",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "readMore": "Read More",
+    "explore": "Explore",
+    "openingHours": "Opening Hours",
+    "days": "Monday - Sunday",
+    "getDirections": "Get Directions"
+  },
+  "hero-paper": {
+    "title": "Our Restaurant",
+    "description": "Discover a world of flavors and culinary delights",
+    "getStarted": "Get Started"
+  },
+  "menu-hero": {
+    "title": "Discover Our Delicious Menu",
+    "description": "Explore a variety of dishes crafted to perfection.",
+    "viewCart": "View Cart",
+    "viewItems": "View Items"
+  },
+  "cart-hero": {
+    "title": "Discover Our Delicious Menu",
+    "description": "Explore a variety of dishes crafted to perfection.",
+    "viewItems": "View Items"
+  },
+  "check-hero": {
+    "title": "Discover Our Delicious Menu",
+    "description": "Explore a variety of dishes crafted to perfection.",
+    "viewItems": "View Items"
+  },
+  "category-list": {
+    "all-items": "Show All",
+    "show-menus": "Show Menus"
+  },
+  "cartlist": {
+    "no-of-items": "No of Items",
+    "total-price": "Total Price",
+    "checkout": "Checkout",
+    "empty-cart": "Your cart is empty."
+  },
+  "item-details": {
+    "add-to-cart": "Add to Cart"
+  },
+  "order-place": {
+    "empty-cart-alert": "Your cart is empty. Please add items to your cart before placing an order.",
+    "missing-fields-alert": "Please enter your name, email, contact number, and address.",
+    "minimum-order-alert": "Orders with a total amount less than 1 IQD cannot proceed with payment.",
+    "order-details-title": "Order Details",
+    "name": "Name",
+    "email": "Email",
+    "contact-number": "Contact Number",
+    "address": "Address",
+    "additional-notes": "Additional Notes",
+    "submit-order": "Submit Order",
+    "order-summary": "Order Summary",
+    "customer-name": "Customer Name",
+    "customer-email": "Customer Email",
+    "customer-contact": "Customer Contact",
+    "customer-address": "Customer Address",
+    "total-amount": "Total Amount",
+    "quantity": "Quantity",
+    "price-per-item": "Price per Item",
+    "total-price": "Total Price",
+    "price": "Price",
+    "subtotal": "Subtotal",
+    "each": "each",
+    "send-to-whatsapp": "Send to WhatsApp",
+    "items": "Items",
+    "order-details": "Order Details",
+    "you-have-placed-an-order": "You have placed an order!",
+    "order-id": "Order ID",
+    "cancel-order": "Cancel order",
+    "confirm-via-whatsapp": "Confirm order via WhatsApp",
+    "no-items-in-cart": "No items in cart",
+
+    "contact-us": "Contact Details",
+    "name-prompt": "Hi 👋! My name is...",
+    "name-placeholder": "Your name...",
+    "email-prompt": "and my email is...",
+    "email-placeholder": "Your email...",
+    "contact-prompt": "and my contact number is...",
+    "contact-placeholder": "Your contact number...",
+    "address-prompt": "and my address is...",
+    "address-placeholder": "Your address...",
+    "notes-prompt": "I'd love to ask about...",
+    "notes-placeholder": "Whatever your heart desires :)"
+  },
+  "admin-category": {
+    "category-management": "Category Management",
+    "edit-category": "Edit Category",
+    "en-title": "Title in English",
+    "ar-title": "Title in Arabic",
+    "img-url": "Image URL",
+    "create": "Create",
+    "update": "Update",
+    "delete": "Delete",
+    "edit": "Edit",
+    "cancel": "Cancel"
+  },
+  "item-content": {
+    "title": "Item Management",
+    "category": "Category",
+    "select-category": "Select Category",
+    "en-name": "Item Name in English",
+    "ar-name": "Item Name in Arabic",
+    "en-description": "Description in English",
+    "ar-description": "Description in Arabic",
+    "img-url": "Image URL",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "update": "Update",
+    "create": "Create",
+    "price": "Price"
+  },
+  "order-content": {
+    "search": "Search",
+    "order-id": "Order ID",
+    "customer-name": "Customer Name",
+    "customer-email": "Customer Email",
+    "customer-contact": "Customer Contact",
+    "customer-address": "Customer Address",
+    "total-amount": "Total Amount",
+    "contact": "Contact",
+    "address": "Address",
+    "order-details": "Order Details",
+    "additional-notes": "Additional Notes",
+    "status": "Status",
+    "change-status": "Change Status",
+    "order-date": "Order Date",
+    "cancel": "Cancel",
+    "save": "Save",
+    "all": "All",
+    "pending": "Pending",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "date": "Date",
+    "search-placeholder": "Search order by ID"
+  },
+  "settings": {
+    "title": "Website Settings",
+    "general": {
+      "title": "General Information",
+      "siteNameEn": "Site Name (English)",
+      "siteNameAr": "Site Name (Arabic)",
+      "siteLogo": "Site Logo",
+      "siteDescriptionEn": "Site Description (English)",
+      "siteDescriptionAr": "Site Description (Arabic)",
+      "siteEmail": "Site Email",
+      "siteContact": "Site Contact",
+      "siteAddress": "Site Address",
+      "siteURL": "Site URL",
+      "siteFavicon": "Site Favicon",
+      "siteKeywords": "Site Keywords"
+    },
+    "social": {
+      "title": "Social Media",
+      "facebook": "Facebook URL",
+      "whatsapp": "WhatsApp URL",
+      "twitter": "Twitter URL",
+      "instagram": "Instagram URL",
+      "linkedin": "LinkedIn URL",
+      "youtube": "YouTube URL"
+    },
+    "business": {
+      "title": "Business Information",
+      "contact": "Business Contact",
+      "weekdays": "Weekdays",
+      "hours": "Contact Hours"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacyPolicy": "Privacy Policy URL",
+      "termsOfService": "Terms of Service URL"
+    },
+    "maintenance": "Maintenance Mode",
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error loading settings."
+  },
+  "usersManagement": {
+    "title": "Users Management",
+    "addUser": "Add New User",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "role": "Role",
+    "addUserButton": "Add User",
+    "edit": "Edit",
+    "delete": "Delete",
+    "editUserTitle": "Edit User",
+    "cancel": "Cancel",
+    "save": "Save",
+    "moderator": "Moderator",
+    "admin": "Admin",
+    "actions": "Actions",
+    "newPassword": "New Password"
+  },
+  "dashboard": {
+    "overview": "Dashboard Overview",
+    "totalOrders": "Total Orders",
+    "completedOrders": "Completed Orders",
+    "pendingOrders": "Pending Orders",
+    "canceledOrders": "Cancelled Orders",
+    "totalProfit": "Total Profit",
+    "totalCategories": "Total Categories",
+    "totalItems": "Total Items",
+    "admins": "Admins",
+    "moderators": "Moderators",
+    "loading": "Loading...",
+    "error": "Error loading data:"
+  },
+
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "settings": "Settings",
+    "categories": "Categories",
+    "items": "Items",
+    "orders": "Orders",
+    "logout": "Logout"
+  },
+  "common": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Failed to load data",
+    "noData": "No data available"
+  },
+  "footer": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "menus": "Menus",
+    "contact": "Contact",
+    "contactInformation": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "quickLinks": "Quick Links",
+    "loading": "Loading",
+    "error": "Error",
+    "allRightsReserved": "All Rights Reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+
+  "navbar": {
+    "home": "Home",
+    "menus": "Menus",
+    "cart": "Cart",
+    "login": "Login"
+  },
+
+  "item-hero": {
+    "title": "Discover Delicious Foods",
+    "description": "Explore a variety of dishes crafted to perfection.",
+    "scroll": "SCROLL"
+  },
+
+  "notFound": {
+    "title": "404",
+    "message": "Oops! The page you're looking for doesn't exist.",
+    "description": "It might have been moved or deleted.",
+    "homeButton": "Go to Home"
+  },
+
+  "loading": "Loading..."
+}
